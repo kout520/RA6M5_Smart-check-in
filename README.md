@@ -17,7 +17,7 @@ plaintext
 
 ## 🛠️ 开发环境
 - **主控平台**：瑞萨 RA6M5
-- **开发工具**：e²studio / Renesas RA Smart Configurator
+- **开发工具**：keil / Renesas RA Smart Configurator
 - **通信方式**：UART / WiFi
 - **外设支持**：HMI串口屏、ESP32、K230视觉模块
 
